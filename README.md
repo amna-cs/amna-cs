@@ -2,8 +2,7 @@
 
 ### 🎓 BS Computer Science Student
 
-I am a passionate Computer Science student from Pakistan who enjoys learning new technologies and building real-world software. My goal is to become a skilled Software Engineer and create impactful solutions through technology.
-
+I am a BS Computer Science student from Pakistan with a strong interest in software development and continuous learning. I enjoy building practical software projects, exploring new technologies, and improving my programming skills every day.
 ---
 
 ## 💻 About Me
