@@ -1,4 +1,4 @@
-# Hi, I'm Amna Atta 👋
+# Hi, I'm Amna 👋
 
 ### 🎓 BS Computer Science Student
 
